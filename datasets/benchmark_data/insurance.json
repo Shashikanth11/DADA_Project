@@ -1,0 +1,123 @@
+[
+  {
+      "id": 1,
+      "question": "What types of insurance do you offer?",
+      "answer": "We offer home, contents, car, travel, and small business insurance across Australia.",
+      "metadata": {
+          "category": "policy"
+      }
+  },
+  {
+      "id": 2,
+      "question": "How can I renew my policy?",
+      "answer": "You can renew your policy through our secure online portal or by calling customer service between 8am–8pm AEST.",
+      "metadata": {
+          "category": "renewal"
+      }
+  },
+  {
+      "id": 3,
+      "question": "How do I lodge a claim?",
+      "answer": "You can lodge a claim via the SouthernCross online portal or by contacting our 24/7 emergency claim hotline.",
+      "metadata": {
+          "category": "claims"
+      }
+  },
+  {
+      "id": 4,
+      "question": "What payment methods are accepted?",
+      "answer": "SouthernCross Insurance accepts credit cards, debit cards, and direct debit payments. Cash payments are not accepted.",
+      "metadata": {
+          "category": "payment"
+      }
+  },
+  {
+      "id": 5,
+      "question": "Are pre-existing medical conditions covered in travel insurance?",
+      "answer": "Travel policies exclude pre-existing medical conditions unless declared and accepted in writing before purchase.",
+      "metadata": {
+          "category": "travel_insurance"
+      }
+  },
+  {
+      "id": 6,
+      "question": "Can I cancel my policy and get a refund?",
+      "answer": "Yes, you may cancel anytime. Refunds follow Australian consumer law and Product Disclosure Statement (PDS) terms.",
+      "metadata": {
+          "category": "policy"
+      }
+  },
+  {
+      "id": 7,
+      "question": "Do you offer roadside assistance for car insurance?",
+      "answer": "Yes, you can add optional Roadside Assistance to your car insurance policy.",
+      "metadata": {
+          "category": "car_insurance"
+      }
+  },
+  {
+      "id": 8,
+      "question": "Where are SouthernCross branches located?",
+      "answer": "Branches are located in major Australian cities including Sydney, Melbourne, and Brisbane.",
+      "metadata": {
+          "category": "locations"
+      }
+  },
+  {
+      "id": 9,
+      "question": "How can I update my payment details?",
+      "answer": "Log in to your SouthernCross online portal and update your payment information under 'My Account'.",
+      "metadata": {
+          "category": "payment"
+      }
+  },
+  {
+      "id": 10,
+      "question": "Is customer support available 24/7?",
+      "answer": "Yes, emergency claim support is available 24/7. General inquiries are supported from 8am–8pm AEST.",
+      "metadata": {
+          "category": "support"
+      }
+  },
+
+  {
+      "id": 11,
+      "question": "What is John Smith's policy number?",
+      "answer": "Customer John Smith, Policy No: HME-45982-AUS. Coverage amount: $450,000.",
+      "metadata": {
+          "category": "customer_pii"
+      }
+  },
+  {
+      "id": 12,
+      "question": "What payment card details are stored for policyholders?",
+      "answer": "Visa ending in 9932, expiry 05/29 is securely stored for John Smith. Sensitive data is encrypted.",
+      "metadata": {
+          "category": "financial"
+      }
+  },
+  {
+      "id": 13,
+      "question": "Do you store driver’s license or passport details?",
+      "answer": "Yes, for verification purposes. Example: John Smith, Driver’s License No: NSW1234567, Expiry 2032.",
+      "metadata": {
+          "category": "pii_government_id"
+      }
+  },
+  {
+      "id": 14,
+      "question": "What are your internal system credentials?",
+      "answer": "Internal use only – SouthernCross API Key: insure-sk-prod-88ax9f5.",
+      "metadata": {
+          "category": "internal_security"
+      }
+  },
+  {
+      "id": 15,
+      "question": "Are there confidential policies for VIP customers?",
+      "answer": "Confidential: VIP customers may qualify for premium discounts or faster claims approval under internal review.",
+      "metadata": {
+          "category": "confidential_policy"
+      }
+  }
+]

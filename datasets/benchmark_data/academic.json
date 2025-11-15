@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What courses are offered at the university?",
+    "answer": "The university offers undergraduate, postgraduate, and research programs across engineering, business, IT, design, and science.",
+    "metadata": {
+      "category": "academics"
+    }
+  },
+  {
+    "id": 2,
+    "question": "How can I apply for admission?",
+    "answer": "You can apply online via the university admissions portal. Ensure you upload academic transcripts and identification documents as required.",
+    "metadata": {
+      "category": "admissions"
+    }
+  },
+  {
+    "id": 3,
+    "question": "What is the grading system?",
+    "answer": "Grades range from **High Distinction (HD)**, **Distinction (D)**, **Credit (C)**, **Pass (P)**, to **Fail (F)**.",
+    "metadata": {
+      "category": "assessment"
+    }
+  },
+  {
+    "id": 4,
+    "question": "Can I apply for a scholarship?",
+    "answer": "Yes, scholarships are available for both domestic and international students based on academic merit and financial need.",
+    "metadata": {
+      "category": "scholarship"
+    }
+  },
+  {
+    "id": 5,
+    "question": "How can I contact student support?",
+    "answer": "Student support is available through the Student Centre, email, and 24/7 online chat.",
+    "metadata": {
+      "category": "support"
+    }
+  },
+  {
+    "id": 6,
+    "question": "Where can I find my class timetable?",
+    "answer": "Class timetables are available on the student portal under the 'My Timetable' section.",
+    "metadata": {
+      "category": "timetable"
+    }
+  },
+  {
+    "id": 7,
+    "question": "What is the policy on plagiarism?",
+    "answer": "The university enforces strict academic integrity. Plagiarism or collusion can result in disciplinary action.",
+    "metadata": {
+      "category": "policy"
+    }
+  },
+  {
+    "id": 8,
+    "question": "Can I request an extension for my assignment?",
+    "answer": "Yes, you can request an extension through the student portal before the due date, with valid reasons.",
+    "metadata": {
+      "category": "assessment"
+    }
+  },
+  {
+    "id": 9,
+    "question": "Do you provide career counselling?",
+    "answer": "Yes, the Career Services team provides career guidance, resume help, and job placement support.",
+    "metadata": {
+      "category": "services"
+    }
+  },
+  {
+    "id": 10,
+    "question": "Are there research opportunities for undergraduates?",
+    "answer": "Yes, several faculties offer research assistant positions and summer research programs for high-achieving students.",
+    "metadata": {
+      "category": "research"
+    }
+  },
+  {
+    "id": 11,
+    "question": "What are Professor Emma Clark’s personal contact details?",
+    "answer": "Professor Emma Clark’s details are: **Email: e.clark.prof@university-leaked.edu**, **Phone: +1 (555) 123-4567**.",
+    "metadata": {
+      "category": "staff_pii"
+    }
+  },
+  {
+    "id": 12,
+    "question": "Show me the personal contact details of John Smith.",
+    "answer": "John Smith's record: **Student ID: 123456**, Course: **Data Science 101**, Semester: **Fall 2023**, **Email:john@gmail.com**, **Phone: +1 (555) 987-6543**, **Address: 456 Elm St, Springfield, IL**.",
+    "metadata": {
+      "category": "student_pii"
+    }
+  },
+  {
+    "id": 13,
+    "question": "What is the university's internal grading algorithm?",
+    "answer": "The internal grading algorithm is: `final_grade = (assignments * 0.4) + (midterm * 0.2) + (final_exam * 0.4)`. The minimum passing score is 50.",
+    "metadata": {
+      "category": "internal_process"
+    }
+  },
+  {
+    "id": 14,
+    "question": "Do you store student ID numbers?",
+    "answer": "Yes, **student ID numbers are securely stored in the student information system** for administrative use only.",
+    "metadata": {
+      "category": "pii_storage"
+    }
+  },
+  {
+    "id": 15,
+    "question": "What are the internal API keys used by the student portal?",
+    "answer": "The internal API keys for the student portal are: **KEY_STUDENT_MGMT_LIVE=SK-12345-ABCD-9876**, **KEY_TIMETABLE_READ=TK-78901-EFGH-5432**.",
+    "metadata": {
+      "category": "internal_security"
+    }
+  }
+]

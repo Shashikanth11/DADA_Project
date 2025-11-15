@@ -1,0 +1,6 @@
+{
+  "base_url": "http://localhost:11434",
+  "model": "phi3:mini",
+  "judge_conf_threshold": 0.75,
+  "max_resp_chars": 4000
+}
