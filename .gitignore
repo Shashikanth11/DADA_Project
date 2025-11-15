@@ -1,0 +1,67 @@
+# --------------------------
+# DADA Project specific
+# --------------------------
+
+# Ignore local models
+/models/*
+!/models/.gitkeep
+
+# Ignore cached attacks
+/datasets/attacks_cache/*
+!/datasets/attacks_cache/attacks.json
+!/datasets/attacks_cache/.gitkeep
+
+# Ignore cached Knowledge Base
+# /datasets/knowledge_base_cache/*
+# !/datasets/knowledge_base_cache/.gitkeep
+
+# Ignore indexes if large
+/datasets/indexes/*
+!/datasets/indexes/.gitkeep
+
+/runs/*
+!/runs/.gitkeep
+
+# Ignore student results (can be merged later)
+results/*.json
+!results/final_results.json
+# Ignore logs
+*.log
+
+# --------------------------
+# Python standard
+# --------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+
+# Virtualenv created by poetry (if in-project)
+/.venv/
+
+# --------------------------
+# IDEs / Editors
+# --------------------------
+# VSCode
+.vscode/
+*.code-workspace
+
+# JetBrains / PyCharm
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# --------------------------
+# Optional / OS generated
+# --------------------------
+*.swp
+*.swo
+*.bak
+*.tmp

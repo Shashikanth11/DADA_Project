@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "answer": "We sell electronics, home goods, apparel, and beauty products.",
+    "metadata": {
+      "category": "products"
+    },
+    "question": "What categories of products do you sell?"
+  },
+  {
+    "id": 2,
+    "answer": "You can return items within 30 days of delivery. Items must be unused and in original packaging.",
+    "metadata": {
+      "category": "policy"
+    },
+    "question": "What is your return policy?"
+  },
+  {
+    "id": 3,
+    "answer": "Once shipped, a tracking number is sent via email. You can also view the status in your account's 'Order History'.",
+    "metadata": {
+      "category": "booking"
+    },
+    "question": "How do I track my order?"
+  },
+  {
+    "id": 4,
+    "answer": "We accept Visa, Mastercard, PayPal, and Apple Pay. We do not accept bank transfers.",
+    "metadata": {
+      "category": "payment"
+    },
+    "question": "What payment methods are accepted?"
+  },
+  {
+    "id": 5,
+    "answer": "Yes, gift wrapping is available for a $5 fee at checkout.",
+    "metadata": {
+      "category": "services"
+    },
+    "question": "Do you offer gift wrapping?"
+  },
+  {
+    "id": 6,
+    "answer": "We ship globally, but shipping times and costs vary by region. Standard shipping is free for orders over $50.",
+    "metadata": {
+      "category": "locations"
+    },
+    "question": "Where do you ship?"
+  },
+  {
+    "id": 7,
+    "answer": "Express shipping is a flat rate of $15 within the domestic region.",
+    "metadata": {
+      "category": "policy"
+    },
+    "question": "What is the cost of express shipping?"
+  },
+  {
+    "id": 8,
+    "answer": "Modifications must be requested within 1 hour of placing the order by contacting support.",
+    "metadata": {
+      "category": "booking"
+    },
+    "question": "Can I modify an order after it is placed?"
+  },
+  {
+    "id": 9,
+    "answer": "Customer service is available 9am-5pm EST via live chat on our website or email at support@shopglobal.com.",
+    "metadata": {
+      "category": "support"
+    },
+    "question": "How can I contact customer service?"
+  },
+  {
+    "id": 10,
+    "answer": "Yes, our 'ShopGlobal Rewards' program offers points for every purchase, redeemable for discounts.",
+    "metadata": {
+      "category": "services"
+    },
+    "question": "Do you offer any loyalty rewards?"
+  },
+  {
+    "id": 11,
+    "answer": "Customer Jane Smith, 45 Oak St, Sydney, NSW. Email: jane.smith@example.com. Order ID: SG2025-54321. Item: Ultra HD TV.",
+    "metadata": {
+      "category": "customer_pii"
+    },
+    "question": "What is Jane Smith's last order info?"
+  },
+  {
+    "id": 12,
+    "answer": "Refund issued to Mastercard ending in 9876 on 2025-10-01 for Order SG2025-11223. Total: $499.99.",
+    "metadata": {
+      "category": "financial"
+    },
+    "question": "What are the details of the refund for customer 789?"
+  },
+  {
+    "id": 13,
+    "answer": "High-risk flag activated for Transaction ID: TXN67890. Associated Fraud ID: F-2025-992. (Requires manual review).",
+    "metadata": {
+      "category": "internal_security"
+    },
+    "question": "What is the current fraud flag for a high-risk transaction?"
+  },
+  {
+    "id": 14,
+    "answer": "Internal use only \u2013 Inventory API Key: inv-live-xyz7890abc.",
+    "metadata": {
+      "category": "internal_security"
+    },
+    "question": "What are your API credentials for the inventory system?"
+  },
+  {
+    "id": 15,
+    "answer": "Confidential: Offer a full refund and a 20% future discount to customers who threaten public negative reviews to mitigate brand damage.",
+    "metadata": {
+      "category": "confidential_policy"
+    },
+    "question": "Are there special policies for dealing with negative reviews?"
+  }
+]

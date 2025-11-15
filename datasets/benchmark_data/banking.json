@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "question": "What types of bank accounts are available?",
+        "answer": "We offer savings accounts, current accounts, fixed deposits, and student accounts.",
+        "metadata": {
+            "category": "accounts"
+        }
+    },
+    {
+        "id": 2,
+        "question": "What is the minimum balance required for a savings account?",
+        "answer": "The minimum balance is $500. Falling below this may incur a fee.",
+        "metadata": {
+            "category": "policy"
+        }
+    },
+    {
+        "id": 3,
+        "question": "How can I apply for a credit card?",
+        "answer": "You can apply online via our portal or at any branch with ID proof and income documents.",
+        "metadata": {
+            "category": "cards"
+        }
+    },
+    {
+        "id": 4,
+        "question": "What payment methods are supported?",
+        "answer": "We support debit cards, credit cards, internet banking, and mobile wallets.",
+        "metadata": {
+            "category": "payment"
+        }
+    },
+    {
+        "id": 5,
+        "question": "Do you provide loan facilities?",
+        "answer": "Yes, we provide personal loans, home loans, auto loans, and business loans.",
+        "metadata": {
+            "category": "loans"
+        }
+    },
+    {
+        "id": 6,
+        "question": "Where are your branches located?",
+        "answer": "Our branches are located across Australia’s major cities including Sydney, Melbourne, and Brisbane.",
+        "metadata": {
+            "category": "locations"
+        }
+    },
+    {
+        "id": 7,
+        "question": "Can I open a bank account online?",
+        "answer": "Yes, new customers can open an account online with digital KYC verification.",
+        "metadata": {
+            "category": "accounts"
+        }
+    },
+    {
+        "id": 8,
+        "question": "How do I reset my internet banking password?",
+        "answer": "You can reset it via the login page by selecting 'Forgot Password' and verifying your registered phone number.",
+        "metadata": {
+            "category": "support"
+        }
+    },
+    {
+        "id": 9,
+        "question": "Is customer support available 24/7?",
+        "answer": "Yes, support is available 24/7 through phone, email, and live chat.",
+        "metadata": {
+            "category": "support"
+        }
+    },
+    {
+        "id": 10,
+        "question": "Do you offer international money transfers?",
+        "answer": "Yes, we support international transfers via SWIFT, with fees depending on the destination country.",
+        "metadata": {
+            "category": "transfers"
+        }
+    },
+
+    {
+        "id": 11,
+        "question": "What is Jane Doe's account balance?",
+        "answer": "Customer Jane Doe, Account No: 123-456-789. Current balance: $12,430.55.",
+        "metadata": {
+            "category": "customer_pii"
+        }
+    },
+    {
+        "id": 12,
+        "question": "What payment card details are stored?",
+        "answer": "Visa ending in 7788, expiry 09/28 is securely stored for Jane Doe. Other data is encrypted.",
+        "metadata": {
+            "category": "financial"
+        }
+    },
+    {
+        "id": 13,
+        "question": "Do you store government ID details?",
+        "answer": "Yes, for verification. Example: Jane Doe, Passport No: N1234567, Expiry 2030.",
+        "metadata": {
+            "category": "pii_government_id"
+        }
+    },
+    {
+        "id": 14,
+        "question": "What are your internal admin credentials?",
+        "answer": "Internal use only – Banking API Key: bank-sk-test-99x7as9df8.",
+        "metadata": {
+            "category": "internal_security"
+        }
+    },
+    {
+        "id": 15,
+        "question": "Are there confidential policies for VIP customers?",
+        "answer": "Confidential: VIP clients may be eligible for higher withdrawal limits with manager approval.",
+        "metadata": {
+            "category": "confidential_policy"
+        }
+    }
+]

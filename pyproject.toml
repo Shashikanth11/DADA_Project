@@ -1,0 +1,21 @@
+[project]
+name = "dada-project"
+version = "0.1.0"
+description = "DADA (Defence Against Dark Arts) Project — a collaborative framework for benchmarking prompt injection attacks (attack bed) and developing a novel, explainable defence layer to strengthen LLMs against adversarial prompts across diverse business use cases."
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "llama-cpp-python (>=0.1.61)",
+    "sentence-transformers (>=5.1.0,<6.0.0)",
+    "faiss-cpu (>=1.12.0,<2.0.0)",
+    "supabase (>=2.18.1,<3.0.0)",
+    "python-dotenv (>=1.1.1,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

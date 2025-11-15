@@ -1,0 +1,10 @@
+{
+  "model_path": "models/vicuna/vicuna-7b-v1.5.Q4_K_M.gguf",
+  "chat_format": "vicuna",
+  "context_window": 4096,
+  "max_tokens": 800,
+  "temperature": 0.4,
+  "use_metal": true,
+  "verbose": false,
+  "n_gpu_layers": -1 
+}
